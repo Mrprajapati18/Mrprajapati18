@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm <a href="https://snehalmankar2121.wixsite.com/snehal-mankar">Snehal Sanjay Mankar</a></h1>
+<h1 align="center">Hi 👋, I'm  Durgesh kumar prajapati</h1>
 <h3 align="center">Aspiring Data Analyst</h3>
 
 
