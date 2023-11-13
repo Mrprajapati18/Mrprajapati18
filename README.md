@@ -3,15 +3,8 @@
 
 
 
-- 🌱 I’m currently passionately exploring world of **Data Science** with the help of [100 Days of Data Science coding challenge](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science).
 
-- 👨‍💻 All of my projects are available at [https://snehalmankar2121.wixsite.com/snehal-mankar](https://snehalmankar2121.wixsite.com/snehal-mankar).
-
-- 📫 How to reach me **snehalmankar.2121@gmail.com**
-
----
-
-<h3 align="left">Connect with me:</h3>
+---<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mankar-snehal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mankar-snehal" height="30" width="40" /></a>
 <a href="https://codesandbox.com/snehalmankar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="snehalmankar" height="30" width="40" /></a>
