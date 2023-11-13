@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm  Durgesh kumar prajapati</h1>
 <h3 align="center">Aspiring Data Analyst And Data science</h3>
 
+- ✍️ I’m currently learning **machine learning & data science**
 
+- 📝 I regularly share post on [https://www.linkedin.com/in/manav-patel-571-aiml/](https://www.linkedin.com/in/manav-patel-571-aiml/)
+
+- 📫 How to reach me **durgeshkumar778080@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3><p align="left">
