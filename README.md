@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm  Durgesh kumar prajapati</h1>
-<h3 align="center">Aspiring Data Analyst</h3>
+<h3 align="center">Aspiring Data Analyst And Data science</h3>
 
 
 
