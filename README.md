@@ -67,36 +67,3 @@
 
 🌟 Working on ML Applications
 
-
----
-
-
-## My Github Stats 🏆
-
-<br/>
-
-<div class = "container">  
-
-[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mankarsnehal&theme=dark)](https://github.com/mankarsnehal)
-
-  
-<!--- <img style="height = auto; width: auto;" class="img" src="https://github-readme-stats.vercel.app/api?username=mankarsnehal&show_icons=true&theme=dracula&hide_border=true&hide_rank=true" /> --->
-
-![](https://github-readme-stats.vercel.app/api?username=mankarsnehal&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-
- 
-<img style="height = auto; width: auto;" class="img" src="https://streak-stats.demolab.com?user=mankarsnehal&theme=dracula&hide_border=true" />
- 
-<img style="height = auto; width: auto;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mankarsnehal&layout=donut&theme=dracula&hide_border=true" />
-
-<img style="height = 80%; width: 55%;" class="img" src="https://leetcode-stats-six.vercel.app/api?username=snehalmankar&theme=dark" />
-</div>
-</div>
-
-<!---
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=mankarsnehal" />
-<br/>
- <br/>
- </p>
- --->
