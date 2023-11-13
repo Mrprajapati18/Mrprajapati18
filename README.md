@@ -2,6 +2,9 @@
 <h3 align="center">Aspiring Data Analyst And Data science</h3>
 
 - ✍️ I’m currently learning **Data Analytics & data science**
+- - 📄 Know about my experiences [https://drive.google.com/file/d/19ZyGGY1DPd0mI2hqBWnUBafF_xvfunIs/view?usp=drivesdk](https://drive.google.com/file/d/19ZyGGY1DPd0mI2hqBWnUBafF_xvfunIs/view?usp=drivesdk)
+
+<h3 align="left">Connect with me:</h3>
 
 - 📫 How to reach me **durgeshkumar778080@gmail.com**
 
