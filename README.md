@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm  Durgesh kumar prajapati</h1>
 <h3 align="center">Aspiring Data Analyst And Data science</h3>
 
-- ✍️ I’m currently learning **Data analytics & data science **
+- ✍️ I’m currently learning **Data Analytics & data science**
 
 - 📫 How to reach me **durgeshkumar778080@gmail.com**
 
