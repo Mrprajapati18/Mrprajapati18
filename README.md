@@ -28,11 +28,6 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![BootStrap](https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white)
 
-### Backend Development
-
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
-
-
 ### Framework
 
 ![.Net](https://img.shields.io/badge/.NET-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)
@@ -44,27 +39,14 @@
 ![SQLite](https://img.shields.io/badge/SQLite-003B57.svg?style=for-the-badge&logo=SQLite&logoColor=white)
 
 
-### Data Analysis and Machine Learning
+### Data Analysis , Data science and Machine Learning
 
 ![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-2C2D72?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit-learn-2C2D72?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-2C2D72?style=for-the-badge&logo=seaborn&logoColor=white)
 
 
----
 
-## ⚡Areas of Interest
-
-
-🌟 Synthesizing scripts to make development work flow easier
-
-🌟 Composing and Contributing to open source applications for a community centered and transparent tech ecosystem
-
-🌟 Building tech communities and advocating for products for the future!
-
-🌟 Forging Efficient APIs to enable clients translate their idea into a MVP
-
-🌟 Mentoring young and inquisitive minds to explore their path in tech
-
-🌟 Working on ML Applications
 
