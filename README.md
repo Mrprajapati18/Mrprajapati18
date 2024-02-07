@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm  Durgesh kumar prajapati</h1>
-<h3 align="center">Aspiring DSA with Java,Data Analyst And Data science</h3>
+<h3 align="center">Aspiring Java,And Software Automation testing  </h3>
 
-- ✍️ I’m currently learning **DSA with Java,Data Analytics & data science**
+- ✍️ I’m currently learning ** Java,Data Analytics & Software Automation testing(Katalon) **
 - - 📫 How to reach me **durgeshkumar778080@gmail.com**
 
 
