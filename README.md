@@ -32,14 +32,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 
-### Data Analysis , Data science and Machine Learning
-
-![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-2C2D72?style=for-the-badge&logo=matplotlib&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit-learn-2C2D72?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-2C2D72?style=for-the-badge&logo=seaborn&logoColor=white)
-
 
 
 
