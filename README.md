@@ -35,6 +35,14 @@
 ![download (1)](https://github.com/Mrprajapati18/Mrprajapati18/assets/143236347/23a10d7f-e00e-45f7-aaac-e13947e088da)
 ![download](https://github.com/Mrprajapati18/Mrprajapati18/assets/143236347/27897376-891d-400a-99bc-610bfa1b27fe)
 
+
+### Data Analysis and Machine Learning
+![numpy](https://github.com/Mrprajapati18/Mrprajapati18/assets/143236347/2c334afe-8f0e-42d4-be5a-746951eb6af4)
+![pandas](https://github.com/Mrprajapati18/Mrprajapati18/assets/143236347/a2f7d2bb-51c7-4f23-bbe9-2817199323d1)
+
+
+
+
 ### DevOps
 ![download (2)](https://github.com/Mrprajapati18/Mrprajapati18/assets/143236347/be981fe3-6c5c-4923-ac2b-27b983590aac)
 
