@@ -14,7 +14,7 @@
  <a href="https://leetcode.com/u/durgeshkumar778080/" target="blank"><img align="center" src="https://github.com/user-attachments/assets/21a51aeb-3619-44c5-b966-412ed2ed2595"
  alt="durgesh-prajapati" height="40" width="40" /></a>
 </p>
-### Primary Tech Stack 
+ 🛠 ### Primary Tech Stack
 
 ### Programming Languages
 
