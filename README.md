@@ -2,7 +2,9 @@
 <h3 align="center"> Aspiring Java Full Stack Developer And Software Automation testing  </h3>
 
 - ✍️ I’m currently learning ** Java Full Stack Developer  & Software Automation testing with Selenium **
+  
 - 📫 How to reach me **durgeshkumar778080@gmail.com**
+  
 - 📄 Know about my Experience https://drive.google.com/file/d/1ZbiXJN8DNLzuz3KibjPOQycUInlYQJxk/view?usp=sharing
 
 
@@ -19,6 +21,7 @@
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://github.com/user-attachments/assets/6a74fb74-ff60-4bf8-a222-62db2094abbf)
 
 
 
