@@ -30,6 +30,7 @@
 
 ### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle](https://github.com/user-attachments/assets/dd590e7f-bd2e-45e6-b796-1519317b6a4b)
 
 ### Automation Testing
 ![download (1)](https://github.com/Mrprajapati18/Mrprajapati18/assets/143236347/23a10d7f-e00e-45f7-aaac-e13947e088da)
