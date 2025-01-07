@@ -5,7 +5,7 @@
   
 - 📫 How to reach me **durgeshkumar778080@gmail.com**
   
-- 📄 Know about my Experience https://drive.google.com/file/d/1ZbiXJN8DNLzuz3KibjPOQycUInlYQJxk/view?usp=sharing
+- 📄 Know about my Experience https://drive.google.com/file/d/1KpGhlo-FUUkv_RdnQDHpAkvu-zYs7pGw/view?usp=sharing
 
 
 <h3 align="left">Connect with me:</h3><p align="left">
