@@ -31,6 +31,12 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![S6loCK6fY](https://github.com/user-attachments/assets/d2b85657-0e1c-46cc-b6ac-35f021a48c4f)
 
+### Backend Development
+<img width="90" alt="postman1-2" src="https://github.com/user-attachments/assets/323078a1-b6f7-4ac7-8e97-2eb04db62fe0" />
+<img width="90" alt="nodejs" src="https://github.com/user-attachments/assets/2428ac91-6a85-49d7-a42d-d88fdade607f" />
+
+
+
 
 ### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
