@@ -34,6 +34,7 @@
 
 ### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![mongodb](https://github.com/user-attachments/assets/5ccbfdef-8c55-4fc8-9bce-dc498aeec2cd)
 ![SQLite](https://github.com/user-attachments/assets/65b1b975-deaa-4e32-bd05-686388ef64f5)
 ![Oracle](https://github.com/user-attachments/assets/dd590e7f-bd2e-45e6-b796-1519317b6a4b)
 
