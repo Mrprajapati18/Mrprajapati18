@@ -29,6 +29,7 @@
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![S6loCK6fY](https://github.com/user-attachments/assets/d2b85657-0e1c-46cc-b6ac-35f021a48c4f)
 
 
 ### Databases
