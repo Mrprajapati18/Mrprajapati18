@@ -60,4 +60,6 @@
 
 ## 📊 GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mrprajapati18&theme=dark&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mrprajapati18&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mrprajapati18&theme=radical)
 
