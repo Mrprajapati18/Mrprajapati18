@@ -59,6 +59,7 @@
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 ## 📊 GitHub Stats
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mrprajapati18&theme=dark)](https://github.com/Mrprajapati18)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mrprajapati18&theme=dark&show_icons=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mrprajapati18&layout=compact&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mrprajapati18&theme=radical)
