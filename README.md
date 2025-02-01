@@ -4,6 +4,8 @@
 - ✍️ I’m currently learning ** Java Full Stack Developer  & Software Automation testing with Selenium **
   
 - 📫 How to reach me **durgeshkumar778080@gmail.com**
+
+- 💬 Ask me about Java Script, Java, Core java,  MySQL, Oracle, Selenium, Python, HTML5, CSS3
   
 - 📄 Know about my Experience https://drive.google.com/file/d/1KpGhlo-FUUkv_RdnQDHpAkvu-zYs7pGw/view?usp=sharing
 
