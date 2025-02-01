@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm  Durgesh kumar prajapati</h1>
-<h3 align="center"> Aspiring Java Full Stack Developer And Software Automation testing  </h3>
+<h3 align="center"> 🌟 Aspiring Java Full Stack Developer And Software Automation testing  </h3>
 
 - ✍️ I’m currently learning ** Java Full Stack Developer  & Software Automation testing with Selenium **
   
