@@ -30,10 +30,6 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
-### Backend Development
-<img width="90" alt="postman1-2" src="https://github.com/user-attachments/assets/323078a1-b6f7-4ac7-8e97-2eb04db62fe0" />
-<img width="90" alt="nodejs" src="https://github.com/user-attachments/assets/2428ac91-6a85-49d7-a42d-d88fdade607f" />
-
 ### Databases
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
