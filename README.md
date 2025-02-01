@@ -16,7 +16,7 @@
 </p>
  🛠 Primary Tech Stack
 
-### Programming Languages
+### 💻 Programming Languages
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
@@ -24,7 +24,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white)
 
-### Frontend Development
+### 🌐 Frontend Development
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -32,19 +32,19 @@
 ![BootStrap](https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
-### Databases
+### 🛢️ Databases
 
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57.svg?style=for-the-badge&logo=SQLite&logoColor=white)
 ![Oracle](https://github.com/user-attachments/assets/dd590e7f-bd2e-45e6-b796-1519317b6a4b)
 
-### Automation Testing
+### ✅ Automation Testing
 ![download (1)](https://github.com/Mrprajapati18/Mrprajapati18/assets/143236347/23a10d7f-e00e-45f7-aaac-e13947e088da)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 
 
-### Data Analysis and Machine Learning
+### 📈 Data Analysis and Machine Learning
 ![numpy](https://github.com/Mrprajapati18/Mrprajapati18/assets/143236347/2c334afe-8f0e-42d4-be5a-746951eb6af4)
 ![pandas](https://github.com/Mrprajapati18/Mrprajapati18/assets/143236347/a2f7d2bb-51c7-4f23-bbe9-2817199323d1)
 ![matplot_title_logo](https://github.com/Mrprajapati18/Mrprajapati18/assets/143236347/4de655c4-f62d-487a-9ec6-d280d9462f9c)
@@ -52,7 +52,7 @@
 
 
 
-### DevOps
+### 🔄 DevOps
 ![download (2)](https://github.com/Mrprajapati18/Mrprajapati18/assets/143236347/be981fe3-6c5c-4923-ac2b-27b983590aac)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
