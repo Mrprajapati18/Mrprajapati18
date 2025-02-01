@@ -21,9 +21,7 @@
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://github.com/user-attachments/assets/6a74fb74-ff60-4bf8-a222-62db2094abbf)
-
-
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### Frontend Development
 
@@ -36,12 +34,9 @@
 <img width="90" alt="postman1-2" src="https://github.com/user-attachments/assets/323078a1-b6f7-4ac7-8e97-2eb04db62fe0" />
 <img width="90" alt="nodejs" src="https://github.com/user-attachments/assets/2428ac91-6a85-49d7-a42d-d88fdade607f" />
 
-
-
-
 ### Databases
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![mongodb](https://github.com/user-attachments/assets/5ccbfdef-8c55-4fc8-9bce-dc498aeec2cd)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQLite](https://github.com/user-attachments/assets/65b1b975-deaa-4e32-bd05-686388ef64f5)
 ![Oracle](https://github.com/user-attachments/assets/dd590e7f-bd2e-45e6-b796-1519317b6a4b)
 
