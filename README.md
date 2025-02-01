@@ -45,8 +45,8 @@
 
 
 ### 📈 Data Analysis and Machine Learning
-![numpy](https://github.com/Mrprajapati18/Mrprajapati18/assets/143236347/2c334afe-8f0e-42d4-be5a-746951eb6af4)
-![pandas](https://github.com/Mrprajapati18/Mrprajapati18/assets/143236347/a2f7d2bb-51c7-4f23-bbe9-2817199323d1)
+![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 ![matplot_title_logo](https://github.com/Mrprajapati18/Mrprajapati18/assets/143236347/4de655c4-f62d-487a-9ec6-d280d9462f9c)
 
 
