@@ -50,7 +50,8 @@
 ![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 ![matplot_title_logo](https://github.com/Mrprajapati18/Mrprajapati18/assets/143236347/4de655c4-f62d-487a-9ec6-d280d9462f9c)
-![sklearn](https://github.com/user-attachments/assets/495b42cc-cdb4-409b-aeb8-21e752d74e5a)
+![sklearn](https://github.com/user-attachments/assets/a735f2fa-03e5-4d4c-ae70-f63fa1ee894d)
+
 
 
 
