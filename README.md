@@ -10,14 +10,14 @@
 - 📄 Know about my Experience https://drive.google.com/file/d/1KpGhlo-FUUkv_RdnQDHpAkvu-zYs7pGw/view?usp=sharing
 
 
-<h3 align="left">Connect with me:</h3><p align="left">
+<h3 align="left">🌟 Connect with me:</h3><p align="left">
   <a href="https://linkedin.com/in/durgeshprajapati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="durgesh-prajapati" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/profile/durgeshkumar7781" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="durgesh-prajapati" height="40" width="40" /></a>
  <a href="https://leetcode.com/u/durgeshkumar778080/" target="blank"><img align="center" src="https://github.com/user-attachments/assets/21a51aeb-3619-44c5-b966-412ed2ed2595"
  alt="durgesh-prajapati" height="40" width="40" /></a>
 </p>
  
- 🛠 Primary Tech Stack
+ ### 🛠 Primary Tech Stack
 
 ### 💻 Programming Languages
 
