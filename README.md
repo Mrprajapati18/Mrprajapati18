@@ -53,8 +53,6 @@
 
 
 
-
-
 ### 🔄 DevOps
 ![download (2)](https://github.com/Mrprajapati18/Mrprajapati18/assets/143236347/be981fe3-6c5c-4923-ac2b-27b983590aac)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -62,7 +60,22 @@
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 
-##  GitHub Stats 🏆
+### ⚡Areas of Interest
+### 1. Data Scientist: 
+####  🌟 Machine learning pipelines, from data preprocessing to model deployment.
+####  🌟 Exploratory data analysis (EDA) and visualizations using tools like Matplotlib, Seaborn.
+####  🌟 Unique datasets collected via web scraping and analyzed meaningfully.
+
+### 2. Testing Engineer:
+####  🌟 Showcase contributions to frameworks for unit, integration, and end-to-end testing.
+#### 🌟 Automated test pipelines using tools like Jenkins or GitLab CI/CD.
+
+### 3. Developer
+
+####  🌟 Algorithm Challenges like LeetCode or HackerRank to demonstrate algorithmic thinking.
+####  🌟 Working on MAchine Learning Algorithms.
+
+###  GitHub Stats 🏆
 <br/>
 
 <div class = "container">  
