@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm  Durgesh kumar prajapati</h1>
-<h3 align="center"> 🌟 Aspiring Java Developer And Software Automation testing  </h3>
+<h3 align="center"> 🌟 Aspiring Data Analytics And Data Science  </h3>
 
-- ✍️ I’m currently learning ** Java Full Stack Developer  & ERP Developer  **
+- ✍️ I’m currently learning ** Data Analytics And Data Science  & ERP Developer  **
   
 - 📧 How to reach me **durgeshkumar778080@gmail.com**
 
